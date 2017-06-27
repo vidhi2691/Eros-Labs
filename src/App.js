@@ -50,6 +50,7 @@ class App extends Component {
         </div>
           <br/>
           <br/>
+          
         <p className="App-intro">
         Please Enter the percentage with respect to 200%.
         </p>
